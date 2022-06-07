@@ -1,8 +1,8 @@
 ## Summary
-<!-- Describe your changes as overview so that they are understandable by others. -->
+<!-- Replace this comment with overview of your changes so that they are understandable by others -->
 
 ## Reasons for making this change
-<!-- Give context and tell the reason why this change was done because all changes happen for some reason.  -->
+<!-- Replace this comment with change context - Why this change was done  -->
 
 ## Output Screenshots (optional)
-<!-- Add pictures if possible/when needed. -->
+<!-- Replace this comment with pictures if possible/when needed -->
